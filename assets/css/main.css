@@ -3283,15 +3283,6 @@ input, select, textarea {
 
 		}
 
-.flex-horizontal {
-	display: flex;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
-}
-
-.box {
-	flex: 1 1 auto;
-}
 
 
 
